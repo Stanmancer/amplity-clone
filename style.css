@@ -328,7 +328,7 @@ html:has(.toggler:checked) {
 	top: 0;
 	cursor: pointer;
 	z-index: 2;
-	/* appearance: none; */
+	appearance: none;
 	outline: none;
 }
 
