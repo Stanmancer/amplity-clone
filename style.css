@@ -330,6 +330,7 @@ html:has(.toggler:checked) {
 	z-index: 2;
 	appearance: none;
 	outline: none;
+	opacity: 0;
 }
 
 .wwd-dropdown {
